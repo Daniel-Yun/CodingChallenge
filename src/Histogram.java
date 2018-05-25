@@ -70,7 +70,7 @@ public class Histogram {
                 }
 
                 // Write to the output.txt file
-                writer.write(entry.getKey() + spaces + "|" + length + "\n");
+                writer.write(entry.getKey() + spaces + "|" + length + " (" + entry.getValue() + ")" + "\n");
 
             }
             writer.close();
