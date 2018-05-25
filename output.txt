@@ -1,0 +1,11 @@
+the            |====
+mouse          |==
+hickory        |==
+one            |=
+dickory        |==
+struck         |=
+up             |=
+clock          |==
+dock           |==
+down           |=
+ran            |==
